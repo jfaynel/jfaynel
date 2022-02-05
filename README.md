@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jfaynel
-- 👀 I’m interested in Videogames, IoT, chocolates, running and challenging myself
+- 👀 I’m interested Javascript, Java, Python
 - 🌱 I’m currently learning LaunchX by Microsoft
 - 💞️ I’m looking to collaborate on Back and Front end developments
 - 📫 How to reach me jfaynel@gmail.com
