@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jfaynel
-- 👀 I’m interested Javascript, Java, Python
+- 👋 Hi, I’m John Fayne
+- 👀 I’m interested Javascript, Java, Python, C++
 - 🌱 I’m currently learning LaunchX by Microsoft
-- 💞️ I’m looking to collaborate on Back and Front end developments
+- 💞️ I’m looking to collaborate on as a fullstack developer
 - 📫 How to reach me jfaynel@gmail.com
 
 <!---
